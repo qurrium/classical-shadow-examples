@@ -1,0 +1,6 @@
+python_version==3.12.13
+custom==0.1.1
+matplotlib==3.11.0
+numpy==2.5.1
+qiskit==2.4.1
+qurrium==1.0.0.dev3
